@@ -13,7 +13,7 @@ npm install
 ### Rodar o projeto 
 
 ```
-npm satart
+npm start
 ```
 
 ## Testando a aplicação com o insomnia
